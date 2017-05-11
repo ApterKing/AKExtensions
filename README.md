@@ -5,7 +5,7 @@ Swift 常用Extension
  
 - 通过pod 方式引入
 
-``` pod 'AKSwifty/Extension' ```
+``` pod 'AKExtensions' ```
 	
 - 部分说明
 
