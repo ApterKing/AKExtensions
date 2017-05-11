@@ -1,0 +1,12 @@
+PODS:
+  - AKExtensions (1.0.2)
+
+DEPENDENCIES:
+  - AKExtensions
+
+SPEC CHECKSUMS:
+  AKExtensions: 12001895e1af1cda58e26c3177b937f26a2fcf6f
+
+PODFILE CHECKSUM: 1ebbab4e83bbae170e5781867317d3f51cbefae5
+
+COCOAPODS: 1.2.1

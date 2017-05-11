@@ -1,0 +1,6 @@
+framework module AKExtensions {
+  umbrella header "AKExtensions-umbrella.h"
+
+  export *
+  module * { export * }
+}
