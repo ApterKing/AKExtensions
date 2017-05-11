@@ -113,4 +113,4 @@ ApterKing, wangccong@foxmail.com
 
 ## License
 
-AKSwifty is available under the MIT license. See the LICENSE file for more info.
+AKExtensions is available under the MIT license. See the LICENSE file for more info.
