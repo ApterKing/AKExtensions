@@ -3,7 +3,7 @@ Pod::Spec.new do |s|
 
   # ―――  Spec Metadata  ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   s.name         = "AKExtensions"
-  s.version      = "1.0.1"
+  s.version      = "1.0.2"
   s.summary      = "The Commonly Used Swfit Extension"
 
   s.homepage     = "https://github.com/ApterKing/AKExtensions"
